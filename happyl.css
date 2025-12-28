@@ -1,0 +1,20 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+    flex-direction: column;
+}
+.ss{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ll{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
